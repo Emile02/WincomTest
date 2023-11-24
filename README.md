@@ -23,8 +23,8 @@ For other distribution, go watch the related documentation
 2. Navigate to the directory containing the Main.java file using the `cd path/to/your/directory` command.
 3. Compile the Main.java file using the `javac Main.java` command.
 4. Run the program using the `java Main` command.
-5. The corresponding results will display in the graphical window.
-6. Follow the instructions displayed in the console to perform a keyword search.
+5. The corresponding results will display in the graphical window. (Bonus I made)
+6. Follow the instructions displayed in the console to perform a keyword search. (First assignment)
 
 ### Testing
 
