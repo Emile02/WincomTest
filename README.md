@@ -9,6 +9,12 @@ This Java project showcases two functionalities: a simple graphical interface fo
 
 Ensure Java is installed on your system.
 
+On linux (apt): 
+
+``` sudo apt install default-jre default-jdk```
+
+For other distribution, go watch the related documentation
+
 ### Instructions
 
 #### Lauch Program
