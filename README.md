@@ -31,3 +31,7 @@ For other distribution, go watch the related documentation
 I add a small test file who succeed !
 
 ![image](https://github.com/Emile02/WincomTest/assets/71837803/9a2fcda6-d30d-4707-b60f-b89a50bf998a)
+
+## Documentation
+
+In the code you'll find each line documentated and there is a .pdf document with all the information you'll need and the answers to the questions.
