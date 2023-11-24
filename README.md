@@ -25,3 +25,9 @@ For other distribution, go watch the related documentation
 4. Run the program using the `java Main` command.
 5. The corresponding results will display in the graphical window.
 6. Follow the instructions displayed in the console to perform a keyword search.
+
+### Testing
+
+I add a small test file who succeed !
+
+![image](https://github.com/Emile02/WincomTest/assets/71837803/9a2fcda6-d30d-4707-b60f-b89a50bf998a)
