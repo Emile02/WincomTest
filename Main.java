@@ -15,7 +15,7 @@ public class Main {
     public static void consoleTest() { // create a void function because I dont need any return
         Scanner scanner = new Scanner(System.in); // I use Scanner to catch user input
         while (true) {
-            System.out.println("Search what you want below:"); // asking the user to write something
+            System.out.println("Search in the console or in the window !"); // asking the user to write something
             String researchGoogle = scanner.nextLine().toLowerCase(); // convert the string to not be case sensitive
 
             int count = 0; // create a counter to show the amount of result I want
@@ -54,17 +54,8 @@ public class Main {
 
         inputField.addKeyListener(new KeyListener() { // add a keylistener to my input field
             @Override
-            public void keyTyped(KeyEvent e) { // only function I need to override
-                updateResults("app");
-            }
-
-            // but I had to declare those anyway
-            @Override
-            public void keyPressed(KeyEvent e) {
-            }
-
-            @Override
             public void keyReleased(KeyEvent e) {
+                updateResults("app");
             }
         });
 
